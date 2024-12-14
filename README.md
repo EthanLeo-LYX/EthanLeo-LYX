@@ -11,7 +11,7 @@
 ![](https://count.getloli.com/get/@EhtanLeo-LYX.github.readme)
 </div>
    
-### 🔭 I’m currently a 1st-year Ph.D. student of Gaoling School of Artificial Intelligence, Renmin University of China.
+### 🔭 I’m currently a Ph.D. student of Gaoling School of Artificial Intelligence, Renmin University of China.
 
 ### 🎯 I'm interested in NLP and LLM.
 
