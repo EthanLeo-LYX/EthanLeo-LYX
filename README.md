@@ -11,11 +11,11 @@
 ![](https://count.getloli.com/get/@EhtanLeo-LYX.github.readme)
 </div>
    
-### 🔭 I’m currently a student in Nankai University
+### 🔭 I’m currently a 1st-year Ph.D. student of Gaoling School of Artificial Intelligence, Renmin University of China.
 
-### 🎯 I'm interested in DL MM DM
+### 🎯 I'm interested in NLP and LLM.
 
-### 📫 How to reach me: [GMail](mailto:lyx.ethanleo@gmail.com) [WeChat](https://github.com/NKULYX/NKULYX/blob/main/wechat.jpg) [Twitter](https://twitter.com/lyx_ttatt)
+### 📫 How to reach me: [GMail](mailto:lyx.ethanleo@gmail.com)
 <!---
 EthanLeo-LYX/EthanLeo-LYX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
