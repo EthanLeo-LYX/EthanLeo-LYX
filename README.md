@@ -17,6 +17,7 @@ I am Yuxuan Liu (刘宇轩)! I am currently a second year Ph.D. student at [Gaol
 
 
 ### 🔥 News
+- *2026.05*: &nbsp;🎊🎊 One paper was accepted by **KDD 2026**. Congratulations!
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**. Thanks for all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Selected by **2026 Tencent Rhino-Bird Elite Talent Program**.
 - *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
